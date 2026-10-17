@@ -1,0 +1,11 @@
+{
+  "org": "pyserial",
+  "repo": "pyserial",
+  "versions": [
+    {
+      "commit": "a5c48d445fbc1943d4fabf8d9090a50fda3172fd",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:15:41.074844+00:00"
+    }
+  ]
+}
