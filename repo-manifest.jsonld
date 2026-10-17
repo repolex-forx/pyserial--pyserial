@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pyserial/pyserial/commit/a5c48d445fbc1943d4fabf8d9090a50fda3172fd",
       "git:hexsha": "a5c48d445fbc1943d4fabf8d9090a50fda3172fd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:15:41.051500+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyserial/pyserial/commit/f0a81d4b6659c9667db40e28c1496e578ae27094",
